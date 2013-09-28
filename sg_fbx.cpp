@@ -2,10 +2,12 @@
 //
 
 #include "stdafx.h"
+#include "sg_read_model.h"
 
 
 int _tmain(int argc, _TCHAR* argv[])
 {
+	sg_read_model("./samples/");
 	return 0;
 }
 

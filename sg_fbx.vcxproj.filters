@@ -21,12 +21,21 @@
     <ClInclude Include="targetver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="sg_read_model.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sg_structs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="sg_fbx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sg_read_model.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

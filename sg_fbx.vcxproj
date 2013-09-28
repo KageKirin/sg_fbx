@@ -84,6 +84,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <None Include="Model_Importer-Updated_06-07-2012.ms" />
     <None Include="readme.markdown" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

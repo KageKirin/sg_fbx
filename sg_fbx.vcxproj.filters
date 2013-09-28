@@ -32,5 +32,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="readme.markdown" />
+    <None Include="Model_Importer-Updated_06-07-2012.ms" />
   </ItemGroup>
 </Project>

@@ -7,7 +7,7 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	sg_read_model("./samples/");
+	sg_read_model("./samples/chr_classic_sonic_HD.model");
 	return 0;
 }
 
